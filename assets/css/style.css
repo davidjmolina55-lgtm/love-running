@@ -1,0 +1,19 @@
+/*Asterisk wildcard selector to override default styles added by the browser*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Style for header*/
+header {
+    background-color: brown;
+}
+/*Style for main content*/
+main {
+    background-color: lightgrey;
+}
+/*Style for footer*/
+footer {
+    background-color: darkgrey;
+}
