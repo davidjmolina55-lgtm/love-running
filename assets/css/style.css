@@ -21,6 +21,9 @@ body {
 header {
     background-color: brown;
 }
+h1 {
+    font-family: "Oswald", sans-serif;
+}
 
 /*Style for main content*/
 main {
