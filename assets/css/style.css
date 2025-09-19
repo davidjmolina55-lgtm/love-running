@@ -83,10 +83,15 @@ nav {
 
 /*Style for main content*/
 main {
-    background-color: lightgrey;
     /* Ensures the main content takes up available space */
     flex: 1 0 auto;
     margin-top: 47px;
+}
+/* Hero section style */
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url("../images/hero-image.webp") no-repeat center center/cover;
 }
 
 /*Style for footer*/
